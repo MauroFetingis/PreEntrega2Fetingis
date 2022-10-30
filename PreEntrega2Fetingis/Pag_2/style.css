@@ -47,7 +47,7 @@ footer span{
     display: flex;
     flex-direction: column;
     align-items: center;
-    justify-content: center;
+    justify-content: end;
     text-align: center;
     padding: 2rem;
 
